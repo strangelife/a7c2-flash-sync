@@ -1,0 +1,17 @@
+Original research documentation is available for noncommercial use under
+the accompanying A7C2 Flash Sync Noncommercial Source License 1.0.
+This is not an MIT-licensed or OSI-approved open-source distribution.
+
+This repository distributes documentation only. It does not include camera
+connection, modification or recovery tools, third-party software, Sony firmware,
+parameter images, complete parameter records, private calibration data, full
+device readbacks, serial numbers or device identity hashes.
+
+Sony trademarks, firmware and other third-party materials retain their existing
+rights. Published parameter offsets, limited before/after field values and
+protocol observations do not grant a license to third-party firmware.
+
+This is independent, unofficial research. Sony has not authorized or endorsed
+this project. No Sony affiliation, service authorization, warranty undertaking
+or assurance of successful device modification or recovery is provided.
+Read docs/notices.md before using these observations on a device.

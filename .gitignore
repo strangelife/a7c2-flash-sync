@@ -1,0 +1,9 @@
+*
+!.gitignore
+!.gitattributes
+!README.md
+!LICENSE
+!NOTICE
+!docs/
+docs/*
+!docs/notices.md
